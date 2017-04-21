@@ -1,0 +1,25 @@
+#email-container {
+  display: block;
+  width: 80%;
+  margin: 10% auto;
+}
+
+img {
+  margin: 0.5em;
+}
+
+header {
+  text-align: center;
+}
+
+table {
+  margin: 1em auto;
+}
+
+footer {
+  margin-top: 3em;
+}
+
+footer img {
+  float: left;
+}
